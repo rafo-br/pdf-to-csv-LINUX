@@ -25,7 +25,7 @@ Follow these steps to set up the project and its dependencies.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USER/pdf-to-csv-LINUX.git](https://github.com/YOUR_USER/pdf-to-csv-LINUX.git)
+    git clone [https://github.com/YOUR_USER/pdf-to-csv-LINUX.git](https://github.com/YOUR_USER/pdf-to-csv-LINUX.git)
     cd pdf-to-csv-LINUX
     ```
     *(Replace `YOUR_USER` with your GitHub username)*
